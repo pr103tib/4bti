@@ -1,4 +1,4 @@
-# Working time registration system
+# reservation of tables in the cafe
 
 
 ## _contractor: Michał Zdunek_
