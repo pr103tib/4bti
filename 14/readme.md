@@ -1,4 +1,4 @@
-# GPS device location system
+# Self-learning system
 
 
 ## _contractor: Mariusz Tyczyński_
