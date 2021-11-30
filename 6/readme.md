@@ -58,6 +58,10 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Technologies, programming languages and others
 
+## Layout for form in HTML
+
+[link to layout][form]
+
 Dillinger uses a number of open source projects to work properly:
 
 - [PHP]
@@ -71,4 +75,4 @@ Dillinger uses a number of open source projects to work properly:
  
  [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
  
-  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+  [form]: <https://github.com/Michal3456/4bti/blob/main/6/Untitled%20Diagram.drawio.png>
