@@ -73,4 +73,4 @@ Dillinger uses a number of open source projects to work properly:
  
  [form]: <https://github.com/Michal3456/4bti/blob/main/13/layout.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).p
+ [db]: <https://github.com/Michal3456/4bti/blob/main/13/baza.drawio.png>
